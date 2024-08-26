@@ -1,0 +1,16 @@
+html {
+    height: 100%;
+    width: 100%;
+  }
+  
+  .bulb{
+    background: yellow;
+  }
+  img{
+    height: 340px;
+    width: 340px;
+  }
+  .bulbcontainer{
+    height: 340px;
+    width: 340px;
+  }
